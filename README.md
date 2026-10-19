@@ -158,7 +158,6 @@ TODO: Answer in 3 to 5 sentences. Which segment should the bank target with a ca
 Built by **Yatharth Bisaria** as part of a data and analytics portfolio.
 
 - LinkedIn: https://www.linkedin.com/in/yatharth-bisaria
-- TODO add your portfolio site link once it is live
 
 ## 13. Credits
 
